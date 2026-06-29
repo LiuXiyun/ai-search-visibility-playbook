@@ -128,6 +128,10 @@ Thin external pages may still be indexed, but they rarely help answer engines un
 | Gemini | Brand | Mentioned | First | Homepage | Fix outdated phrasing |
 | Google AI | Evaluation | Mentioned | Later | Directory page | Earn stronger third-party source |
 
+## Research datasets
+
+- [AI Citation Readiness Benchmark for B2B SaaS](datasets/ai-citation-readiness-benchmark-2026/) - a public Convertos.ai dataset covering 50 B2B SaaS websites and the observable evidence signals that may help answer engines describe, compare, and cite a SaaS brand accurately.
+
 ## Related resources
 
 - [Convertos.ai](https://convertos.ai/) - AI visibility monitoring for GEO, AEO, and SEO teams
