@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "AI Citation Readiness Benchmark for B2B SaaS Websites"
+message: "If you use this dataset, please cite it as below."
+type: dataset
+authors:
+  - family-names: "Liu"
+    given-names: "Ethan"
+    affiliation: "Convertos.ai"
+    website: "https://convertos.ai/"
+date-released: "2026-07-13"
+url: "https://github.com/LiuXiyun/ai-search-visibility-playbook/tree/main/datasets/saas-citation-readiness-2026"
+repository-code: "https://github.com/LiuXiyun/ai-search-visibility-playbook"
+keywords:
+  - AI visibility
+  - generative engine optimization
+  - answer engine optimization
+  - citation readiness
+  - B2B SaaS
+abstract: "A public benchmark of observable citation-readiness signals across 50 B2B SaaS websites."
+license: CC-BY-4.0

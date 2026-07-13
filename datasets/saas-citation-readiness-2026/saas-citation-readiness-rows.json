@@ -1,0 +1,3002 @@
+[
+  {
+    "brand": "HubSpot",
+    "category": "CRM / marketing",
+    "homeUrl": "https://www.hubspot.com",
+    "finalUrl": "https://www.hubspot.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "HubSpot | Software &amp; Tools for your Business - Homepage",
+    "structuredData": true,
+    "internalLinksSampled": 21,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.hubspot.com/",
+        "status": 200,
+        "evidence": "homepage links or copy mention this signal"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.hubspot.com/company/contact",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.hubspot.com/case-studies",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.hubspot.com/resources",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://help.hubspot.com/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://www.hubspot.com/customer-reviews",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Salesforce",
+    "category": "CRM / enterprise",
+    "homeUrl": "https://www.salesforce.com",
+    "finalUrl": "https://www.salesforce.com/ap/?ir=1",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Salesforce: The Customer Company | Salesforce AP",
+    "structuredData": true,
+    "internalLinksSampled": 151,
+    "signalCount": 7,
+    "score": 8,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.salesforce.com/ap/agentforce/pricing/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.salesforce.com/ap/company/our-story/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.salesforce.com/agentforce/customer-stories/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.salesforce.com/ap/resources/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://www.salesforce.com/ap/?ir=1",
+        "status": 200,
+        "evidence": "homepage links or copy mention this signal"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.salesforce.com/ap/platform/cloud-data-security/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://www.salesforce.com/compare/salesforce-vs-hubspot/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Zendesk",
+    "category": "Customer support",
+    "homeUrl": "https://www.zendesk.com",
+    "finalUrl": "https://www.zendesk.hk/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "人工智能驅動的服務平台 | Zendesk",
+    "structuredData": false,
+    "internalLinksSampled": 0,
+    "signalCount": 5,
+    "score": 5,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.zendesk.hk/pricing/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.zendesk.hk/company/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.zendesk.hk/blog/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://www.zendesk.hk/service/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.zendesk.hk/company/agreements-and-terms/privacy-notice/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Intercom",
+    "category": "Customer support",
+    "homeUrl": "https://www.intercom.com",
+    "finalUrl": "https://www.intercom.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Intercom | The only helpdesk designed for the AI Agent era",
+    "structuredData": true,
+    "internalLinksSampled": 6,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.intercom.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://fin.ai/about",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.intercom.com/customers",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.intercom.com/why-choose-intercom",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://www.intercom.com/help/en/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.intercom.com/legal/privacy",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Notion",
+    "category": "Productivity",
+    "homeUrl": "https://www.notion.com",
+    "finalUrl": "https://www.notion.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "The AI workspace that works for you. | Notion",
+    "structuredData": false,
+    "internalLinksSampled": 83,
+    "signalCount": 6,
+    "score": 6,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.notion.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.notion.com/about",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.notion.com/customers",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.notion.com/blog",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://www.notion.com/product/docs",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.notion.com/security",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Airtable",
+    "category": "Productivity",
+    "homeUrl": "https://www.airtable.com",
+    "finalUrl": "https://www.airtable.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Airtable: Build Enterprise-ready AI Workflows, Apps &amp; Agents | Airtable",
+    "structuredData": false,
+    "internalLinksSampled": 74,
+    "signalCount": 6,
+    "score": 6,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://airtable.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.airtable.com/about",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.airtable.com/customer-stories/code-and-theory",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.airtable.com/lp/resources",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://support.airtable.com/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.airtable.com/company/trust-and-security",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Asana",
+    "category": "Project management",
+    "homeUrl": "https://asana.com",
+    "finalUrl": "https://asana.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Work &amp; Project Management for Human-Agent Teams • Asana",
+    "structuredData": true,
+    "internalLinksSampled": 55,
+    "signalCount": 7,
+    "score": 8,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://asana.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://asana.com/company",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://asana.com/customers",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://asana.com/resources",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://help.asana.com/s/?language=en_US",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://asana.com/features/admin-security",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://asana.com/compare",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Monday.com",
+    "category": "Project management",
+    "homeUrl": "https://monday.com",
+    "finalUrl": "https://monday.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "The AI Work Platform for People &amp; Agents | monday.com",
+    "structuredData": true,
+    "internalLinksSampled": 54,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://monday.com/",
+        "status": 200,
+        "evidence": "homepage links or copy mention this signal"
+      },
+      "about": {
+        "present": true,
+        "url": "https://monday.com/p/about/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://monday.com/w/customer-stories",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://monday.com/blog",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://monday.com/helpcenter/contact-support",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://monday.com/w/ai-trust-center",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "ClickUp",
+    "category": "Project management",
+    "homeUrl": "https://clickup.com",
+    "finalUrl": "https://clickup.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "ClickUp™ | Maximize productivity • Software, AI, and humans converge",
+    "structuredData": false,
+    "internalLinksSampled": 15,
+    "signalCount": 7,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://clickup.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://clickup.com/about",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://clickup.com/customers",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://clickup.com/blog/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://clickup.com/features/docs",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://clickup.com/security",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://clickup.com/compare",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Linear",
+    "category": "Product management",
+    "homeUrl": "https://linear.app",
+    "finalUrl": "https://linear.app/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "",
+    "structuredData": false,
+    "internalLinksSampled": 0,
+    "signalCount": 6,
+    "score": 6,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://linear.app/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://linear.app/about",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://linear.app/customers",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://linear.app/now",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://linear.app/docs",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://linear.app/security",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Figma",
+    "category": "Design",
+    "homeUrl": "https://www.figma.com",
+    "finalUrl": "https://www.figma.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Figma: The Collaborative Interface Design Tool",
+    "structuredData": false,
+    "internalLinksSampled": 58,
+    "signalCount": 6,
+    "score": 6,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.figma.com/pricing/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.figma.com/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.figma.com/customers/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.figma.com/blog/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://help.figma.com/hc/en-us",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.figma.com/security/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Canva",
+    "category": "Design",
+    "homeUrl": "https://www.canva.com",
+    "finalUrl": "https://www.canva.com/",
+    "status": 403,
+    "homepageCrawlable": false,
+    "noindex": false,
+    "title": "Canva",
+    "structuredData": false,
+    "internalLinksSampled": 0,
+    "signalCount": 0,
+    "score": 0,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "about": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "customers": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "resources": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "docs": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "trust": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Miro",
+    "category": "Collaboration",
+    "homeUrl": "https://miro.com",
+    "finalUrl": "https://miro.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "AI Innovation Workspace | Miro",
+    "structuredData": false,
+    "internalLinksSampled": 0,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://miro.com/pricing/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://miro.com/about/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://miro.com/customers/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://miro.com/blog/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://trust.miro.com/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://miro.com/compare/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Typeform",
+    "category": "Forms",
+    "homeUrl": "https://www.typeform.com",
+    "finalUrl": "https://www.typeform.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Forms &amp; Automated Workflows, Powered by AI | Typeform",
+    "structuredData": true,
+    "internalLinksSampled": 67,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.typeform.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.typeform.com/about-us",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.typeform.com/?from=customers",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.typeform.com/blog",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://www.typeform.com/",
+        "status": 200,
+        "evidence": "homepage links or copy mention this signal"
+      },
+      "trust": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://www.typeform.com/",
+        "status": 200,
+        "evidence": "homepage links or copy mention this signal"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "SurveyMonkey",
+    "category": "Forms",
+    "homeUrl": "https://www.surveymonkey.com",
+    "finalUrl": "https://www.surveymonkey.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "SurveyMonkey: The World’s Most Popular Survey Platform",
+    "structuredData": true,
+    "internalLinksSampled": 46,
+    "signalCount": 7,
+    "score": 8,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.surveymonkey.com/pricing/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.surveymonkey.com/about/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.surveymonkey.com/customers/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.surveymonkey.com/roles/human-resources/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://www.surveymonkey.com/",
+        "status": 200,
+        "evidence": "homepage links or copy mention this signal"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.surveymonkey.com/product/enterprise/admin-security-features/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://www.surveymonkey.com/compare/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Calendly",
+    "category": "Scheduling",
+    "homeUrl": "https://calendly.com",
+    "finalUrl": "https://calendly.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Free Online Appointment Scheduling Software | Calendly",
+    "structuredData": false,
+    "internalLinksSampled": 37,
+    "signalCount": 7,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://calendly.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://calendly.com/about",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://calendly.com/customers",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://calendly.com/resources",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://calendly.com/help",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://calendly.com/security",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://calendly.com/compare",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Slack",
+    "category": "Collaboration",
+    "homeUrl": "https://slack.com",
+    "finalUrl": "https://slack.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Slack | AI Work Platform &amp; Productivity Tools",
+    "structuredData": false,
+    "internalLinksSampled": 93,
+    "signalCount": 7,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://slack.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://slack.com/about",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://slack.com/customer-stories",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://slack.com/resources/why-use-slack/what-is-slack-and-how-does-it-work",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://slack.com/help",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://slack.com/trust/security",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://slack.com/compare/slack-vs-teams",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Zoom",
+    "category": "Communication",
+    "homeUrl": "https://zoom.us",
+    "finalUrl": "https://www.zoom.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "One platform to connect | Zoom",
+    "structuredData": true,
+    "internalLinksSampled": 99,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://zoom.us/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.zoom.com/en/about/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.zoom.com/en/customer-stories/major-league-baseball/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://library.zoom.com/ai-whitepaper",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://www.zoom.com/en/products/collaborative-docs/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://library.zoom.com/ai-whitepaper",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Loom",
+    "category": "Video",
+    "homeUrl": "https://www.loom.com",
+    "finalUrl": "https://www.loom.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Free screen recorder for Mac and PC | Loom",
+    "structuredData": true,
+    "internalLinksSampled": 15,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.loom.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.atlassian.com/company",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.loom.com/customers",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.atlassian.com/blog/app/loom",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://www.loom.com/use-case/support",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.atlassian.com/legal/security-measures",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Zapier",
+    "category": "Automation",
+    "homeUrl": "https://zapier.com",
+    "finalUrl": "https://zapier.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Zapier: Automate AI Workflows, Agents, and Apps",
+    "structuredData": true,
+    "internalLinksSampled": 74,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://zapier.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://zapier.com/about",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://zapier.com/customer-stories",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://zapier.com/blog/what-you-should-automate/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://zapier.com/solutions/customer-support",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://zapier.com/security-compliance",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Make",
+    "category": "Automation",
+    "homeUrl": "https://www.make.com",
+    "finalUrl": "https://www.make.com/en",
+    "status": 403,
+    "homepageCrawlable": false,
+    "noindex": false,
+    "title": "Just a moment...",
+    "structuredData": false,
+    "internalLinksSampled": 0,
+    "signalCount": 3,
+    "score": 2,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "about": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "customers": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.make.com/en/blog",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://help.make.com/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.make.com/en/security",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Segment",
+    "category": "Customer data",
+    "homeUrl": "https://segment.com",
+    "finalUrl": "https://www.twilio.com/en-us/segment",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Twilio Segment Customer Data Platform | Twilio",
+    "structuredData": false,
+    "internalLinksSampled": 116,
+    "signalCount": 6,
+    "score": 6,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.twilio.com/en-us/support-plans",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.twilio.com/en-us/company",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://customers.twilio.com/en-us",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.twilio.com/en-us/blog",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://www.twilio.com/en-us/support-plans",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.twilio.com/en-us/trust-center",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Amplitude",
+    "category": "Product analytics",
+    "homeUrl": "https://amplitude.com",
+    "finalUrl": "https://amplitude.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "AI Analytics Platform for Modern Digital Analytics",
+    "structuredData": false,
+    "internalLinksSampled": 0,
+    "signalCount": 7,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://amplitude.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://amplitude.com/company",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://amplitude.com/customers",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://amplitude.com/resources",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://amplitude.com/docs",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://amplitude.com/security-and-privacy",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://amplitude.com/compare",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Mixpanel",
+    "category": "Product analytics",
+    "homeUrl": "https://mixpanel.com",
+    "finalUrl": "https://mixpanel.com/home/",
+    "status": 200,
+    "homepageCrawlable": false,
+    "noindex": false,
+    "title": "Mixpanel: AI Digital Analytics Platform for Product Teams",
+    "structuredData": false,
+    "internalLinksSampled": 1,
+    "signalCount": 6,
+    "score": 5,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://mixpanel.com/pricing/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://mixpanel.com/about/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://mixpanel.com/customers/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://docs.mixpanel.com/docs/what-is-mixpanel",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://docs.mixpanel.com/docs/what-is-mixpanel",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://mixpanel.com/legal/privacy-policy/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Hotjar",
+    "category": "Analytics",
+    "homeUrl": "https://www.hotjar.com",
+    "finalUrl": "https://contentsquare.com/hotjar/?utm_campaign=exp__hj_hp_redirection",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Contentsquare + Hotjar | powering better digital experiences",
+    "structuredData": false,
+    "internalLinksSampled": 67,
+    "signalCount": 7,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://contentsquare.com/pricing/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://contentsquare.com/company/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://contentsquare.com/customers/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://contentsquare.com/blog/how-to-track-optimize-ai-traffic/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://contentsquare.com/support/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://contentsquare.com/privacy-policy/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://contentsquare.com/compare/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "FullStory",
+    "category": "Analytics",
+    "homeUrl": "https://www.fullstory.com",
+    "finalUrl": "https://www.fullstory.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "",
+    "structuredData": false,
+    "internalLinksSampled": 0,
+    "signalCount": 7,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.fullstory.com/plans/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.fullstory.com/about-us/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.fullstory.com/platform/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.fullstory.com/resources/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://help.fullstory.com/hc/en-us",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.fullstory.com/privacy-resources/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://www.fullstory.com/compare/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Semrush",
+    "category": "SEO",
+    "homeUrl": "https://www.semrush.com",
+    "finalUrl": "https://www.semrush.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Semrush: Your Unfair Advantage for Growing Brand Visibility",
+    "structuredData": true,
+    "internalLinksSampled": 63,
+    "signalCount": 7,
+    "score": 8,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.semrush.com/pricing/seo/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.semrush.com/company/sales/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.semrush.com/company/stories/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.semrush.com/blog/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://developer.semrush.com/api/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.semrush.com/company/legal/privacy-policy/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://www.semrush.com/vs/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Ahrefs",
+    "category": "SEO",
+    "homeUrl": "https://ahrefs.com",
+    "finalUrl": "https://ahrefs.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Ahrefs—AI Marketing Platform Powered by Big Data",
+    "structuredData": true,
+    "internalLinksSampled": 0,
+    "signalCount": 5,
+    "score": 6,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://ahrefs.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://ahrefs.com/about",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://ahrefs.com/blog/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://ahrefs.com/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://ahrefs.com/vs/semrush",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Moz",
+    "category": "SEO",
+    "homeUrl": "https://moz.com",
+    "finalUrl": "https://moz.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Moz - SEO Software for Smarter Marketing",
+    "structuredData": true,
+    "internalLinksSampled": 82,
+    "signalCount": 7,
+    "score": 8,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://moz.com/products/api/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://moz.com/about",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://moz.com/products/pro/testimonials",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://moz.com/learn/seo",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://moz.com/api/docs",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://moz.com/privacy-policy",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://moz.com/",
+        "status": 200,
+        "evidence": "homepage links or copy mention this signal"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Webflow",
+    "category": "Website builder",
+    "homeUrl": "https://webflow.com",
+    "finalUrl": "https://webflow.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Webflow: The agentic web platform for modern businesses",
+    "structuredData": true,
+    "internalLinksSampled": 53,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://webflow.com/",
+        "status": 200,
+        "evidence": "homepage links or copy mention this signal"
+      },
+      "about": {
+        "present": true,
+        "url": "https://webflow.com/",
+        "status": 200,
+        "evidence": "homepage links or copy mention this signal"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://webflow.com/",
+        "status": 200,
+        "evidence": "homepage links or copy mention this signal"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://webflow.com/",
+        "status": 200,
+        "evidence": "homepage links or copy mention this signal"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://support.webflow.com/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://webflow.com/",
+        "status": 200,
+        "evidence": "homepage links or copy mention this signal"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Wix",
+    "category": "Website builder",
+    "homeUrl": "https://www.wix.com",
+    "finalUrl": "https://www.wix.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Website Builder - Create a Free Website In Minutes | Wix.com",
+    "structuredData": true,
+    "internalLinksSampled": 0,
+    "signalCount": 5,
+    "score": 6,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.wix.com/plans",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.wix.com/about/us",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.wix.com/blog",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://support.wix.com/en",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.wix.com/website-security",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Shopify",
+    "category": "Commerce",
+    "homeUrl": "https://www.shopify.com",
+    "finalUrl": "https://www.shopify.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Shopify: The All-in-One Commerce Platform for Businesses - Shopify",
+    "structuredData": true,
+    "internalLinksSampled": 115,
+    "signalCount": 7,
+    "score": 8,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.shopify.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.shopify.com/about",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.shopify.com/blog/retail-customer-service",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.shopify.com/blog/what-is-shopify",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://www.shopify.com/",
+        "status": 200,
+        "evidence": "homepage links or copy mention this signal"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.shopify.com/legal/privacy",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://www.shopify.com/compare",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Stripe",
+    "category": "Payments",
+    "homeUrl": "https://stripe.com",
+    "finalUrl": "https://stripe.com/en-hk",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+    "structuredData": true,
+    "internalLinksSampled": 35,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://stripe.com/en-hk/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://stripe.com/en-hk",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://stripe.com/en-hk/customers/amazon",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://stripe.com/blog",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://stripe.com/en-hk/support-plans",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://docs.stripe.com/security",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Gusto",
+    "category": "HR",
+    "homeUrl": "https://gusto.com",
+    "finalUrl": "https://gusto.com/",
+    "status": 403,
+    "homepageCrawlable": false,
+    "noindex": false,
+    "title": "Just a moment...",
+    "structuredData": false,
+    "internalLinksSampled": 0,
+    "signalCount": 0,
+    "score": 0,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "about": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "customers": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "resources": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "docs": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "trust": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Rippling",
+    "category": "HR",
+    "homeUrl": "https://www.rippling.com",
+    "finalUrl": "https://www.rippling.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Rippling: #1 Workforce Management System | HR, IT, Finance",
+    "structuredData": true,
+    "internalLinksSampled": 99,
+    "signalCount": 7,
+    "score": 8,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.rippling.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.rippling.com/company/about",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.rippling.com/customers",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.rippling.com/resources/global-hiring-report",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://www.rippling.com/support",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.rippling.com/products/it/automated-compliance",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://www.rippling.com/compare",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Deel",
+    "category": "HR",
+    "homeUrl": "https://www.deel.com",
+    "finalUrl": "https://www.deel.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Deel | Global Payroll, Compliance, HR Solutions | HRIS",
+    "structuredData": false,
+    "internalLinksSampled": 3,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.deel.com/",
+        "status": 200,
+        "evidence": "homepage links or copy mention this signal"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.deel.com/about/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.deel.com/case-studies/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.deel.com/blog/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.deel.com/security/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://www.deel.com/vs/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Brex",
+    "category": "Finance",
+    "homeUrl": "https://www.brex.com",
+    "finalUrl": "https://www.brex.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Brex: The Modern Finance Software Platform | Spend Smarter",
+    "structuredData": true,
+    "internalLinksSampled": 14,
+    "signalCount": 7,
+    "score": 8,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.brex.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.brex.com/about",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.brex.com/customers",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.brex.com/resources",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://www.brex.com/support",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.brex.com/trust",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://www.brex.com/compare",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Ramp",
+    "category": "Finance",
+    "homeUrl": "https://ramp.com",
+    "finalUrl": "https://ramp.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "",
+    "structuredData": false,
+    "internalLinksSampled": 0,
+    "signalCount": 5,
+    "score": 6,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://ramp.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://ramp.com/about-us",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://ramp.com/customers",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://support.ramp.com/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://ramp.com/security",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Mercury",
+    "category": "Finance",
+    "homeUrl": "https://mercury.com",
+    "finalUrl": "https://mercury.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Online Business Banking For Startups, Small Businesses &amp; Scaling Companies",
+    "structuredData": true,
+    "internalLinksSampled": 47,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://mercury.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://mercury.com/about",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://mercury.com/",
+        "status": 200,
+        "evidence": "homepage links or copy mention this signal"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://mercury.com/blog",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://mercury.com/",
+        "status": 200,
+        "evidence": "homepage links or copy mention this signal"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://mercury.com/security",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Datadog",
+    "category": "DevOps",
+    "homeUrl": "https://www.datadoghq.com",
+    "finalUrl": "https://www.datadoghq.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Cloud Monitoring as a Service | Datadog",
+    "structuredData": true,
+    "internalLinksSampled": 8,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.datadoghq.com/pricing/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.datadoghq.com/about/leadership/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.datadoghq.com/customers/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.datadoghq.com/resources/cloud-excellence-aws-migration-ebook/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://www.datadoghq.com/support/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.datadoghq.com/trust/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "New Relic",
+    "category": "DevOps",
+    "homeUrl": "https://newrelic.com",
+    "finalUrl": "https://newrelic.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "AI-powered Observability",
+    "structuredData": true,
+    "internalLinksSampled": 10,
+    "signalCount": 6,
+    "score": 8,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://newrelic.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://newrelic.com/about",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://newrelic.com/customers",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://newrelic.com/resources",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://newrelic.com/platform/security-rx",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://newrelic.com/competitive-comparison/datadog",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Sentry",
+    "category": "DevOps",
+    "homeUrl": "https://sentry.io",
+    "finalUrl": "https://sentry.io/welcome/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Application Performance Monitoring &amp; Error Tracking Software | Sentry",
+    "structuredData": true,
+    "internalLinksSampled": 41,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://sentry.io/pricing/?",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://sentry.io/about/?",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://sentry.io/customers/?",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://sentry.io/resources/?",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://docs.sentry.io/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://sentry.io/security/?",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "CircleCI",
+    "category": "DevOps",
+    "homeUrl": "https://circleci.com",
+    "finalUrl": "https://circleci.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Autonomous validation for the AI era - CircleCI",
+    "structuredData": true,
+    "internalLinksSampled": 67,
+    "signalCount": 7,
+    "score": 8,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://circleci.com/pricing/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://circleci.com/about/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://circleci.com/customers/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://circleci.com/resources/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://circleci.com/docs/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://circleci.com/solutions/security-engineer/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": true,
+        "url": "https://circleci.com/compare/github-actions-vs-circleci/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Vercel",
+    "category": "Developer platform",
+    "homeUrl": "https://vercel.com",
+    "finalUrl": "https://vercel.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Agentic Infrastructure",
+    "structuredData": true,
+    "internalLinksSampled": 73,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://vercel.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://vercel.com/about",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://vercel.com/customers",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://vercel.com/blog",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://vercel.com/docs",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://vercel.com/security",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Netlify",
+    "category": "Developer platform",
+    "homeUrl": "https://www.netlify.com",
+    "finalUrl": "https://www.netlify.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Push your ideas to the web | Netlify",
+    "structuredData": false,
+    "internalLinksSampled": 36,
+    "signalCount": 6,
+    "score": 6,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.netlify.com/pricing/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.netlify.com/about/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.netlify.com/customers/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.netlify.com/blog/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://docs.netlify.com/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.netlify.com/security/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Cloudflare",
+    "category": "Infrastructure",
+    "homeUrl": "https://www.cloudflare.com",
+    "finalUrl": "https://www.cloudflare.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Cloudflare: Build for the agent era",
+    "structuredData": true,
+    "internalLinksSampled": 7,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.cloudflare.com/plans/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.cloudflare.com/about/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.cloudflare.com/case-studies/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.cloudflare.com/resource-hub/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://developers.cloudflare.com/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.cloudflare.com/cybersecurity/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "MongoDB",
+    "category": "Database",
+    "homeUrl": "https://www.mongodb.com",
+    "finalUrl": "https://www.mongodb.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "MongoDB: The World’s Leading Modern Data Platform | MongoDB",
+    "structuredData": true,
+    "internalLinksSampled": 63,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.mongodb.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.mongodb.com/company/blog/product-release-announcements/ai-changing-what-customers-need-from-database-mongodb-8-3-built-for-it",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://www.mongodb.com/company/blog/product-release-announcements/ai-changing-what-customers-need-from-database-mongodb-8-3-built-for-it",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.mongodb.com/company/blog/product-release-announcements/ai-changing-what-customers-need-from-database-mongodb-8-3-built-for-it",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://www.mongodb.com/docs/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.mongodb.com/company/contact/mongodb-vulnerability-disclosure-policy",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Supabase",
+    "category": "Database",
+    "homeUrl": "https://supabase.com",
+    "finalUrl": "https://supabase.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Supabase | The Postgres Development Platform.",
+    "structuredData": true,
+    "internalLinksSampled": 37,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://supabase.com/pricing",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://supabase.com/company",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://supabase.com/customers",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://supabase.com/blog",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://supabase.com/docs",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://supabase.com/security",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Twilio",
+    "category": "Communications API",
+    "homeUrl": "https://www.twilio.com",
+    "finalUrl": "https://www.twilio.com/en-us",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Conversational AI and APIs for SMS, Email, Voice | Twilio",
+    "structuredData": true,
+    "internalLinksSampled": 121,
+    "signalCount": 6,
+    "score": 7,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://www.twilio.com/en-us/support-plans",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://www.twilio.com/en-us/company",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://customers.twilio.com/en-us",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://www.twilio.com/en-us/blog",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://www.twilio.com/en-us/support-plans",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": true,
+        "url": "https://www.twilio.com/en-us/trust-center",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  },
+  {
+    "brand": "Mailchimp",
+    "category": "Email marketing",
+    "homeUrl": "https://mailchimp.com",
+    "finalUrl": "https://mailchimp.com/",
+    "status": 200,
+    "homepageCrawlable": true,
+    "noindex": false,
+    "title": "Email &amp; SMS Marketing Platform | Mailchimp",
+    "structuredData": true,
+    "internalLinksSampled": 61,
+    "signalCount": 5,
+    "score": 6,
+    "maxScore": 8,
+    "signals": {
+      "pricing": {
+        "present": true,
+        "url": "https://mailchimp.com/pricing/marketing/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "about": {
+        "present": true,
+        "url": "https://mailchimp.com/about/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "customers": {
+        "present": true,
+        "url": "https://mailchimp.com/case-studies/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "resources": {
+        "present": true,
+        "url": "https://mailchimp.com/developer/marketing/guides/quick-start/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "docs": {
+        "present": true,
+        "url": "https://mailchimp.com/developer/marketing/docs/fundamentals/",
+        "status": 200,
+        "evidence": "candidate page returned crawlable HTML"
+      },
+      "trust": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      },
+      "compare": {
+        "present": false,
+        "url": "",
+        "status": 0,
+        "evidence": "not found in candidate paths"
+      }
+    },
+    "fetchError": ""
+  }
+]

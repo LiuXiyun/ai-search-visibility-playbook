@@ -1,0 +1,446 @@
+{
+  "generatedAt": "2026-06-29T06:21:16.881Z",
+  "methodology": "Convertos.ai crawled 50 public B2B SaaS websites and scored observable citation-readiness signals from each homepage plus common public page paths. This is a directional public-web benchmark, not a ranking of product quality or a guarantee of AI citation inclusion.",
+  "sampleSize": 50,
+  "crawlableHomepages": 46,
+  "crawlableHomepagePercent": 92,
+  "averageScore": 6.5,
+  "medianScore": 7,
+  "strongCount": 35,
+  "strongPercent": 70,
+  "weakCount": 3,
+  "weakPercent": 6,
+  "structuredDataCount": 30,
+  "structuredDataPercent": 60,
+  "signalCoverage": {
+    "pricing": {
+      "label": "Pricing or plans page",
+      "count": 47,
+      "percent": 94
+    },
+    "about": {
+      "label": "About/company/entity page",
+      "count": 47,
+      "percent": 94
+    },
+    "customers": {
+      "label": "Customer proof or case studies",
+      "count": 44,
+      "percent": 88
+    },
+    "resources": {
+      "label": "Resource hub or blog",
+      "count": 47,
+      "percent": 94
+    },
+    "docs": {
+      "label": "Docs/help center",
+      "count": 45,
+      "percent": 90
+    },
+    "trust": {
+      "label": "Trust/security/compliance page",
+      "count": 44,
+      "percent": 88
+    },
+    "compare": {
+      "label": "Comparison or alternatives page",
+      "count": 21,
+      "percent": 42
+    }
+  },
+  "byCategory": {
+    "CRM / marketing": {
+      "count": 1,
+      "structuredData": 1,
+      "customers": 1,
+      "compare": 1,
+      "averageScore": 7,
+      "structuredDataPercent": 100,
+      "customerProofPercent": 100,
+      "comparePercent": 100
+    },
+    "CRM / enterprise": {
+      "count": 1,
+      "structuredData": 1,
+      "customers": 1,
+      "compare": 1,
+      "averageScore": 8,
+      "structuredDataPercent": 100,
+      "customerProofPercent": 100,
+      "comparePercent": 100
+    },
+    "Customer support": {
+      "count": 2,
+      "structuredData": 1,
+      "customers": 1,
+      "compare": 0,
+      "averageScore": 6,
+      "structuredDataPercent": 50,
+      "customerProofPercent": 50,
+      "comparePercent": 0
+    },
+    "Productivity": {
+      "count": 2,
+      "structuredData": 0,
+      "customers": 2,
+      "compare": 0,
+      "averageScore": 6,
+      "structuredDataPercent": 0,
+      "customerProofPercent": 100,
+      "comparePercent": 0
+    },
+    "Project management": {
+      "count": 3,
+      "structuredData": 2,
+      "customers": 3,
+      "compare": 2,
+      "averageScore": 7.3,
+      "structuredDataPercent": 66.7,
+      "customerProofPercent": 100,
+      "comparePercent": 66.7
+    },
+    "Product management": {
+      "count": 1,
+      "structuredData": 0,
+      "customers": 1,
+      "compare": 0,
+      "averageScore": 6,
+      "structuredDataPercent": 0,
+      "customerProofPercent": 100,
+      "comparePercent": 0
+    },
+    "Design": {
+      "count": 2,
+      "structuredData": 0,
+      "customers": 1,
+      "compare": 0,
+      "averageScore": 3,
+      "structuredDataPercent": 0,
+      "customerProofPercent": 50,
+      "comparePercent": 0
+    },
+    "Collaboration": {
+      "count": 2,
+      "structuredData": 0,
+      "customers": 2,
+      "compare": 2,
+      "averageScore": 7,
+      "structuredDataPercent": 0,
+      "customerProofPercent": 100,
+      "comparePercent": 100
+    },
+    "Forms": {
+      "count": 2,
+      "structuredData": 2,
+      "customers": 2,
+      "compare": 2,
+      "averageScore": 7.5,
+      "structuredDataPercent": 100,
+      "customerProofPercent": 100,
+      "comparePercent": 100
+    },
+    "Scheduling": {
+      "count": 1,
+      "structuredData": 0,
+      "customers": 1,
+      "compare": 1,
+      "averageScore": 7,
+      "structuredDataPercent": 0,
+      "customerProofPercent": 100,
+      "comparePercent": 100
+    },
+    "Communication": {
+      "count": 1,
+      "structuredData": 1,
+      "customers": 1,
+      "compare": 0,
+      "averageScore": 7,
+      "structuredDataPercent": 100,
+      "customerProofPercent": 100,
+      "comparePercent": 0
+    },
+    "Video": {
+      "count": 1,
+      "structuredData": 1,
+      "customers": 1,
+      "compare": 0,
+      "averageScore": 7,
+      "structuredDataPercent": 100,
+      "customerProofPercent": 100,
+      "comparePercent": 0
+    },
+    "Automation": {
+      "count": 2,
+      "structuredData": 1,
+      "customers": 1,
+      "compare": 0,
+      "averageScore": 4.5,
+      "structuredDataPercent": 50,
+      "customerProofPercent": 50,
+      "comparePercent": 0
+    },
+    "Customer data": {
+      "count": 1,
+      "structuredData": 0,
+      "customers": 1,
+      "compare": 0,
+      "averageScore": 6,
+      "structuredDataPercent": 0,
+      "customerProofPercent": 100,
+      "comparePercent": 0
+    },
+    "Product analytics": {
+      "count": 2,
+      "structuredData": 0,
+      "customers": 2,
+      "compare": 1,
+      "averageScore": 6,
+      "structuredDataPercent": 0,
+      "customerProofPercent": 100,
+      "comparePercent": 50
+    },
+    "Analytics": {
+      "count": 2,
+      "structuredData": 0,
+      "customers": 2,
+      "compare": 2,
+      "averageScore": 7,
+      "structuredDataPercent": 0,
+      "customerProofPercent": 100,
+      "comparePercent": 100
+    },
+    "SEO": {
+      "count": 3,
+      "structuredData": 3,
+      "customers": 2,
+      "compare": 3,
+      "averageScore": 7.3,
+      "structuredDataPercent": 100,
+      "customerProofPercent": 66.7,
+      "comparePercent": 100
+    },
+    "Website builder": {
+      "count": 2,
+      "structuredData": 2,
+      "customers": 1,
+      "compare": 0,
+      "averageScore": 6.5,
+      "structuredDataPercent": 100,
+      "customerProofPercent": 50,
+      "comparePercent": 0
+    },
+    "Commerce": {
+      "count": 1,
+      "structuredData": 1,
+      "customers": 1,
+      "compare": 1,
+      "averageScore": 8,
+      "structuredDataPercent": 100,
+      "customerProofPercent": 100,
+      "comparePercent": 100
+    },
+    "Payments": {
+      "count": 1,
+      "structuredData": 1,
+      "customers": 1,
+      "compare": 0,
+      "averageScore": 7,
+      "structuredDataPercent": 100,
+      "customerProofPercent": 100,
+      "comparePercent": 0
+    },
+    "HR": {
+      "count": 3,
+      "structuredData": 1,
+      "customers": 2,
+      "compare": 2,
+      "averageScore": 5,
+      "structuredDataPercent": 33.3,
+      "customerProofPercent": 66.7,
+      "comparePercent": 66.7
+    },
+    "Finance": {
+      "count": 3,
+      "structuredData": 2,
+      "customers": 3,
+      "compare": 1,
+      "averageScore": 7,
+      "structuredDataPercent": 66.7,
+      "customerProofPercent": 100,
+      "comparePercent": 33.3
+    },
+    "DevOps": {
+      "count": 4,
+      "structuredData": 4,
+      "customers": 4,
+      "compare": 2,
+      "averageScore": 7.5,
+      "structuredDataPercent": 100,
+      "customerProofPercent": 100,
+      "comparePercent": 50
+    },
+    "Developer platform": {
+      "count": 2,
+      "structuredData": 1,
+      "customers": 2,
+      "compare": 0,
+      "averageScore": 6.5,
+      "structuredDataPercent": 50,
+      "customerProofPercent": 100,
+      "comparePercent": 0
+    },
+    "Infrastructure": {
+      "count": 1,
+      "structuredData": 1,
+      "customers": 1,
+      "compare": 0,
+      "averageScore": 7,
+      "structuredDataPercent": 100,
+      "customerProofPercent": 100,
+      "comparePercent": 0
+    },
+    "Database": {
+      "count": 2,
+      "structuredData": 2,
+      "customers": 2,
+      "compare": 0,
+      "averageScore": 7,
+      "structuredDataPercent": 100,
+      "customerProofPercent": 100,
+      "comparePercent": 0
+    },
+    "Communications API": {
+      "count": 1,
+      "structuredData": 1,
+      "customers": 1,
+      "compare": 0,
+      "averageScore": 7,
+      "structuredDataPercent": 100,
+      "customerProofPercent": 100,
+      "comparePercent": 0
+    },
+    "Email marketing": {
+      "count": 1,
+      "structuredData": 1,
+      "customers": 1,
+      "compare": 0,
+      "averageScore": 6,
+      "structuredDataPercent": 100,
+      "customerProofPercent": 100,
+      "comparePercent": 0
+    }
+  },
+  "scoreBands": {
+    "6": 10,
+    "0-3": 3,
+    "4-5": 2,
+    "7-8": 35
+  },
+  "topRows": [
+    {
+      "brand": "Asana",
+      "category": "Project management",
+      "score": 8,
+      "finalUrl": "https://asana.com/"
+    },
+    {
+      "brand": "Brex",
+      "category": "Finance",
+      "score": 8,
+      "finalUrl": "https://www.brex.com/"
+    },
+    {
+      "brand": "CircleCI",
+      "category": "DevOps",
+      "score": 8,
+      "finalUrl": "https://circleci.com/"
+    },
+    {
+      "brand": "Moz",
+      "category": "SEO",
+      "score": 8,
+      "finalUrl": "https://moz.com/"
+    },
+    {
+      "brand": "New Relic",
+      "category": "DevOps",
+      "score": 8,
+      "finalUrl": "https://newrelic.com/"
+    },
+    {
+      "brand": "Rippling",
+      "category": "HR",
+      "score": 8,
+      "finalUrl": "https://www.rippling.com/"
+    },
+    {
+      "brand": "Salesforce",
+      "category": "CRM / enterprise",
+      "score": 8,
+      "finalUrl": "https://www.salesforce.com/ap/?ir=1"
+    },
+    {
+      "brand": "Semrush",
+      "category": "SEO",
+      "score": 8,
+      "finalUrl": "https://www.semrush.com/"
+    },
+    {
+      "brand": "Shopify",
+      "category": "Commerce",
+      "score": 8,
+      "finalUrl": "https://www.shopify.com/"
+    },
+    {
+      "brand": "SurveyMonkey",
+      "category": "Forms",
+      "score": 8,
+      "finalUrl": "https://www.surveymonkey.com/"
+    }
+  ],
+  "weakestSignals": [
+    {
+      "key": "compare",
+      "label": "Comparison or alternatives page",
+      "count": 21,
+      "percent": 42
+    },
+    {
+      "key": "customers",
+      "label": "Customer proof or case studies",
+      "count": 44,
+      "percent": 88
+    },
+    {
+      "key": "trust",
+      "label": "Trust/security/compliance page",
+      "count": 44,
+      "percent": 88
+    },
+    {
+      "key": "docs",
+      "label": "Docs/help center",
+      "count": 45,
+      "percent": 90
+    },
+    {
+      "key": "pricing",
+      "label": "Pricing or plans page",
+      "count": 47,
+      "percent": 94
+    },
+    {
+      "key": "about",
+      "label": "About/company/entity page",
+      "count": 47,
+      "percent": 94
+    },
+    {
+      "key": "resources",
+      "label": "Resource hub or blog",
+      "count": 47,
+      "percent": 94
+    }
+  ]
+}
