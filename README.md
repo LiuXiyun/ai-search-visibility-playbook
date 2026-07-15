@@ -249,3 +249,28 @@ This playbook is provided as a public reference. Use it to structure internal au
 - [AI Search Integrations Prompt Set](./ai-search-integrations-prompt-set.md)
 - [LLM Citation Remediation SLA](./llm-citation-remediation-sla.md)
 - [AI Visibility Founder Dashboard Notes](./ai-visibility-founder-dashboard-notes.md)
+
+
+## 2026-07-15 source-quality resource batch
+
+- [AI Answer Buyer Objection Map](./ai-answer-buyer-objection-map.md)
+- [AI Search Source Freshness SLA](./ai-search-source-freshness-sla.md)
+- [GEO Comparison Page Evidence Check](./geo-comparison-page-evidence-check.md)
+- [LLM Citation Editorial Brief](./llm-citation-editorial-brief.md)
+- [AI Visibility Founder Weekly Review](./ai-visibility-founder-weekly-review.md)
+- [Answer Engine Third-Party Proof Plan](./answer-engine-third-party-proof-plan.md)
+- [AI Search Pricing Source Map](./ai-search-pricing-source-map.md)
+- [GEO Security Trust Page Checklist](./geo-security-trust-page-checklist.md)
+- [AI Answer Incorrect Feature Fix Log](./ai-answer-incorrect-feature-fix-log.md)
+- [AI Visibility Partner Mention Audit](./ai-visibility-partner-mention-audit.md)
+- [Answer Engine Demo Page Brief](./answer-engine-demo-page-brief.md)
+- [AI Search Category Gap Retro](./ai-search-category-gap-retro.md)
+- [GEO Docs and Help Center Scorecard](./geo-docs-and-help-center-scorecard.md)
+- [AI Citation Public Proof Backlog](./ai-citation-public-proof-backlog.md)
+- [LLM Answer Competitive Claim Check](./llm-answer-competitive-claim-check.md)
+- [AI Search Review Response Playbook](./ai-search-review-response-playbook.md)
+- [GEO Product Launch Source Plan](./geo-product-launch-source-plan.md)
+- [AI Visibility Agency Audit Scope](./ai-visibility-agency-audit-scope.md)
+- [Answer Engine Evidence-Led FAQ Plan](./answer-engine-evidence-led-faq-plan.md)
+- [AI Search Trust Signal Regression Log](./ai-search-trust-signal-regression-log.md)
+
